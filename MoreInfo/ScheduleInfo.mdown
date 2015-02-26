@@ -1,5 +1,5 @@
-(https://raw.githubusercontent.com/boydx/MapCamp/master/MoreInfo/assets/MapCamp_Web_Header.jpg)
-# UK Geography's Summer MapCamp! 
+![alt text](https://raw.githubusercontent.com/boydx/MapCamp/master/MoreInfo/assets/MapCamp_Web_Header.jpg "UK Geography Summer MapCamp!")
+# Welcome to UK Geography's Summer MapCamp! 
 
 ## UK Summer Camp Fair (March 3) Application Questions/Answers
 
